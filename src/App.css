@@ -13,10 +13,8 @@
   }
 }
 body {
-  background:url('http://cdn.wallpapersafari.com/13/6/Mpsg2b.jpg');
-  margin:0px;
-  font-family: 'Ubuntu', sans-serif;
-	background-size: 100% 110%;
+  background: rgb(255,101,0);
+  background: radial-gradient(circle, rgba(255,101,0,1) 0%, rgba(136,134,134,1) 100%);
 }
 
 .App-header {
