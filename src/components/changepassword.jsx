@@ -3,7 +3,7 @@ import React from "react";
 import LockResetOutlinedIcon from '@mui/icons-material/LockResetOutlined';
 
 const ChangePassword=()=>{
-    const paperStyle={padding:20, height: '70vh', width: 280, margin: "20px auto"}
+    const paperStyle={padding:47, height: '70vh', width: 280, margin: "20px auto"}
     const avatarStyle={backgroundColor:"orange"}
     const ctrlStyle={margin:"15px 0 0 0"}
     return(
